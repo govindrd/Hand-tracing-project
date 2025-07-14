@@ -40,6 +40,9 @@ Press **Esc** to exit.
 ## 📦 Why these packages?
 
 - **OpenCV**: Handles all video capture, frame manipulation, and display tasks.
-- **MediaPipe**: Provides robust, real-time hand and face landmark
-- <img width="1870" height="984" alt="Screenshot 2025-07-14 111055" src="https://github.com/user-attachments/assets/9846ad0c-1c57-4584-9601-cef9eb28a6b3" />
+- **MediaPipe**: Provides robust, real-time hand and face landmark<img width="1896" height="1037" alt="Screenshot 2025-07-14 111112" src="https://github.com/user-attachments/assets/f8eedb54-52b5-482c-8986-4e8b949224be" />
+
+- <img width="1870" height="984" alt="Screenshot 2025-07-14 111055" src="https://github.com/<img width="1870" height="984" alt="Screenshot 2025-07-14 111055" src="https://github.com/user-attachments/assets/9dd40230-d863-4ae1-8e30-f86f986d0bc9" />
+user-attachments/assets/9846ad0c-1c57-4584-9601-cef9eb28a6b3" />
+
 
