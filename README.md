@@ -17,7 +17,8 @@ pip install -r requirements.txt
 
 ```bash
 python -m venv venv
-# Activate the virtual environment:
+# Activate the virtual environment:<img width="1896" height="1037" alt="Screenshot 2025-07-14 111112" src="https://github.com/user-attachments/assets/83e9a6d3-723e-4f3a-bdd0-75cddee54092" />
+
 # On PowerShell:
 .\venv\Scripts\Activate.ps1
 # On CMD:
@@ -40,3 +41,5 @@ Press **Esc** to exit.
 
 - **OpenCV**: Handles all video capture, frame manipulation, and display tasks.
 - **MediaPipe**: Provides robust, real-time hand and face landmark
+- <img width="1870" height="984" alt="Screenshot 2025-07-14 111055" src="https://github.com/user-attachments/assets/9846ad0c-1c57-4584-9601-cef9eb28a6b3" />
+
