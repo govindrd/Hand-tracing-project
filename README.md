@@ -1,4 +1,4 @@
-# Hand Tracing Project using Python
+# Hand Tracking Project using Python
 
 This project uses your webcam to detect and trace hand landmarks in real time using MediaPipe and OpenCV.
 
